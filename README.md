@@ -15,12 +15,3 @@ WITH_PYTHON_LAYER := 1
 ## Pre-trained ImageNet VGG-16 model
 Download the pre-trained [VGG-16](https://gist.github.com/ksimonyan/211839e770f7b538e2d8#file-readme-md) ImageNet model and put it in the folder [models](../models).
 
-# Usage
-## Training
-```
-./experiments/train_shanghai.sh
-```
-## Testing
-```
-./eval/shanghai_eval.sh
-```
