@@ -5,13 +5,13 @@ The paper will appear in CVPR 2018. An [arXiv pre-print](https://arxiv.org/abs/1
 
 ## Authors
 
-Xialei Liu, Joost van de Weijer and Andrew D. Bagdanov
+Xialei Liu, [Joost van de Weijer](https://scholar.google.com/citations?hl=en&user=Gsw2iUEAAAAJ&view_op=list_works&sortby=pubdate) and [Andrew D. Bagdanov](https://scholar.google.com/citations?hl=en&user=_Fk4YUcAAAAJ&view_op=list_works&sortby=pubdate)
 
 ## Institutions
 
 [Computer Vision Center, Barcelona, Spain](http://www.cvc.uab.es/lamp/)
 
-Media Integration and Communication Center, University of Florence, Florence, Italy
+[Media Integration and Communication Center, University of Florence, Florence, Italy](https://www.micc.unifi.it/)
 
 ## Abstract
 
