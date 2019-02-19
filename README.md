@@ -2,6 +2,33 @@
 
 The paper will appear in CVPR 2018. An [arXiv pre-print](https://arxiv.org/abs/1803.03095?context=cs) version is available.
 
+The updated version is accpeted at IEEE Transactions on Pattern Analysis and Machine Intelligence. Here is [arXiv pre-print version](https://arxiv.org/abs/1902.06285).
+
+## Citation
+
+Please cite our paper if you are inspired by the idea.
+
+```
+@inproceedings{xialei2018crowd,
+title={Leveraging Unlabeled Data for Crowd Counting by Learning to Rank},
+author={Liu, Xialei and van de Weijer, Joost and Bagdanov, Andrew D},
+booktitle={Proceedings of IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
+year={2018},
+url = {https://github.com/xialeiliu/CrowdCountingCVPR18}
+}
+```
+and 
+
+```
+@ARTICLE{8642842, 
+author={X. {Liu} and J. {Van De Weijer} and A. D. {Bagdanov}}, 
+journal={IEEE Transactions on Pattern Analysis and Machine Intelligence}, 
+title={Exploiting Unlabeled Data in CNNs by Self-supervised Learning to Rank}, 
+year={2019}, 
+pages={1-1}, 
+doi={10.1109/TPAMI.2019.2899857}, 
+ISSN={0162-8828}, }
+```
 
 ## Authors
 
@@ -61,16 +88,3 @@ The pre-trained [models](https://drive.google.com/file/d/1L0K_Co6BHh2S1tUYIs-EiY
 
 We use the code from [here](https://github.com/gramuah/ccnn) to download and prepare the datasets, generate the density maps and evalate the models.  
 
-## Citation
-
-Please cite our paper if you are inspired by the idea.
-
-```
-@inproceedings{xialei2018crowd,
-title={Leveraging Unlabeled Data for Crowd Counting by Learning to Rank},
-author={Liu, Xialei and van de Weijer, Joost and Bagdanov, Andrew D},
-booktitle={Proceedings of IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
-year={2018},
-url = {https://github.com/xialeiliu/CrowdCountingCVPR18}
-}
-```
